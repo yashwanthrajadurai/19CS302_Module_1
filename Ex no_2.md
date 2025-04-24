@@ -13,7 +13,7 @@ To write a program to check whether the attendance is PRESENT using simple if st
 ## Program:
 ```
 /*
-Program to write a program to check whether the attendance is PRESENT using simple if statement.
+Program to check whether the attendance is PRESENT using simple if statement.
 Developed by: 
 RegisterNumber:  
 */

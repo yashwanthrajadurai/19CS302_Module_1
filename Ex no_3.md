@@ -13,7 +13,7 @@ To write a C program to find number of years based on principle,rate & simple in
 ## Program:
 ```
 /*
-Program to write a C program to find number of years based on principle,rate & simple interest.
+Program to find number of years based on principle,rate & simple interest.
 Developed by: 
 RegisterNumber:  
 */
